@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Twenty-two people set to be released from hospital after hantavirus isolation",
+"description": "The passengers and crew will have spent 72-hours isolating at Arrowe Park Hospital in Merseyside.",
+"url": "https://www.bbc.co.uk/news/articles/clyp4nk09k1o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/944d/live/94ffe280-4e94-11f1-b092-4797e4fbbf94.jpg",
+"publishedAt": "2026-05-13T07:37:27.9573346Z",
+"content": "Since the outbreak, three people have died with two confirmed to have had the virus. This included an elderly Dutch man who died before being tested, his wife and a German woman. \r\nDirector-general o… [+1583 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+"description": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
+"url": "https://www.bbc.co.uk/news/articles/cj37z8357e5o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a5d/live/7d8c6fd0-4d89-11f1-93b8-bb0be0df822d.jpg",
+"publishedAt": "2026-05-13T05:52:25.8540168Z",
+"content": "Issues with a new wave of \"smart glasses\" seem to be piling up.\r\nYet some of the biggest technology companies in the world are poised to sell many millions of pairs in the coming years.\r\nWomen leavin… [+3219 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Alex Batty’s mum abducted him as a boy. Now he's ready to talk to her again",
+"description": "Alex Batty reveals all about his abduction and life on the run in a new BBC documentary.",
+"url": "https://www.bbc.co.uk/news/articles/cjepwven131o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdfa/live/73971240-4e1b-11f1-bd52-e755d604ece4.jpg",
+"publishedAt": "2026-05-13T05:22:25.0227114Z",
+"content": "After staying with Trixie for about two years, they moved into a flat in the middle of Villalonga as Alex started to feel lonely.\r\n\"We used to sit at a cafe quite often and the school was right next … [+1420 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Air India: Crisis deepens ahead of final Ahmedabad crash report",
+"description": "Air India faces a leadership vacuum and mounting financial losses as it struggles to recover from the crash.",
+"url": "https://www.bbc.co.uk/news/articles/c775vvz0kydo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59ad/live/94b20f80-4db6-11f1-8e66-f56d9b46fa9c.jpg",
+"publishedAt": "2026-05-13T04:07:19.8221619Z",
+"content": "So, what next?\r\nSabarad says the Tatas and Singapore Airlines will have to step up and infuse more money into the carrier to fund the mounting losses. The $2.4bn figure, if correct, he says is compar… [+1793 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Trump-Xi summit: A decade on, the US president returns to a stronger and more assertive China",
+"description": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+"url": "https://www.bbc.co.uk/news/articles/cm2py6l78dxo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg",
+"publishedAt": "2026-05-13T01:22:22.0869664Z",
+"content": "When China's leader Xi Jinping hosts his American counterpart in Beijing this week, Donald Trump will be reminded of his last visit in 2017 he was wooed hard, complete with dinner inside the Forbidde… [+2018 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Jason Collins: NBA's first openly gay player dies aged 47",
+"description": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer.",
+"url": "https://www.bbc.co.uk/news/articles/clyp8rdldk1o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f53/live/0b673990-4e5f-11f1-b3b3-0b50bfaa6ecf.jpg",
+"publishedAt": "2026-05-13T00:37:23.8966141Z",
+"content": "\"Jason will be remembered not only for breaking barriers, but also for the kindness and humanity that defined his life and touched so many others,\" Silver added.\r\nCollins said in December 2025 that t… [+819 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Newspaper headlines: 'Starmer and Streeting set for showdown' and 'Crisis? What crisis?'",
+"description": "Every paper leads on the future of Sir Keir Starmer's premiership for the second day in a row.",
+"url": "https://www.bbc.co.uk/news/articles/cqjpqxlgg50o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db03/live/a2d196a0-4e54-11f1-b55d-0f258dce1735.png",
+"publishedAt": "2026-05-13T00:07:21.1638542Z",
+"content": "Image caption, For the second day in a row, every paper leads on the future of Sir Keir Starmer's premiership. \"Starmer throws down gauntlet to rivals\" says the Financial Times, reporting the prime m… [+352 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Daily pill helps keep weight off after stopping obesity jabs",
+"description": "The tablet - orforglipron - is available in the US and could soon launch in the UK.",
+"url": "https://www.bbc.co.uk/news/articles/cwy2e9wlvjxo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg",
+"publishedAt": "2026-05-12T23:52:22.1828386Z",
+"content": "Orforglipron works similarly to obesity jabs, by mimicking a natural hormone that reduces appetite and makes you feel more full for longer. \r\nIn the US, where it is available, the price is cheaper th… [+517 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Israel qualifies but Boy George is out of Eurovision",
+"description": "The Israeli act is met with boos and chants, but also a chorus of support, at Tuesday's semi-final.",
+"url": "https://www.bbc.co.uk/news/articles/cz92klwqz87o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bfa/live/96f94cb0-4e40-11f1-ae62-ab9d6bf96137.jpg",
+"publishedAt": "2026-05-12T23:07:21.7314902Z",
+"content": "The semi-final, held at Vienna's Wiener Stadhalle, saw 10 countries qualify for Saturday's grand finale. \r\nAmong them were Finnish duo Pete Parkonnen and Linda Lampenius, whose tempestuous love song … [+1082 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Who could challenge Keir Starmer as prime minister?",
+"description": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job.",
+"url": "https://www.bbc.co.uk/news/articles/c3e2n7xn14xo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13fb/live/68aab620-4ddf-11f1-9cc8-93479330ab4b.jpg",
+"publishedAt": "2026-05-12T16:52:32.2560026Z",
+"content": "Angela Rayner was, until last year, the deputy prime minister and the most powerful woman in British politics. \r\nIt has been a remarkable journey for the woman who grew up in poverty and left school … [+917 chars]"
+}
+]
+}
